@@ -1,0 +1,18 @@
+.choice-btn {
+  border: none;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 15px;
+  background-color: white;
+}
+
+.choice-btn > img {
+  inline-size: fit-content;
+  height: 60px;
+  width: 150px;
+}
+
+.choice-card > img {
+  inline-size: fit-content;
+  height: 60px;
+}
